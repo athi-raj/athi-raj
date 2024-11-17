@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athi-raj&label=Profile%20views&color=0e75b6&style=flat" alt="athi-raj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=athi-raj" alt="athi-raj" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/athi_raj_" target="blank"><img src="https://img.shields.io/twitter/follow/athi_raj_?logo=twitter&style=for-the-badge" alt="athi_raj_" /></a> </p>
 
