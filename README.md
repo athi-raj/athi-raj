@@ -10,7 +10,6 @@
 
 - 🌱 I’m currently learning **Btech in Computer Science**
 
-- 💬 Ask me about **HTML,CSS**
 
 - 📫 Reach me **athiraaaraj@gmail.com**
 
