@@ -8,10 +8,10 @@
 
 <p align="left"> <a href="https://twitter.com/athi_raj_" target="blank"><img src="https://img.shields.io/twitter/follow/athi_raj_?logo=twitter&style=for-the-badge" alt="athi_raj_" /></a> </p>
 
-- 🌱 I’m currently learning **Btech in Computer Science**
+-  I am a **Btech Computer Science and Engineering** graduate from the Carmel College of Engineering and Technology
 
 
-- 📫 Reach me **athiraaaraj@gmail.com**
+- 📫 Reach me **athiathiraraj06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
